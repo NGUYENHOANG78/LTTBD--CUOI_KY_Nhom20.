@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NETFLIX PLUS PRO</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="nav_history">History</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="button_register">Đăng ký</string>
+    <string name="movie_hint">Name…</string>
+    <string name="waiting_message">Please wait…</string>
+    <string name="avatar_description">User Avatar</string>
+    <string name="facebook_app_id">123456789012345</string>
+    <string name="facebook_client_token">YOUR_CLIENT_TOKEN</string>
+    <string name="fb_login_protocol_scheme">fb123456789012345</string>
+    <string name="default_web_client_id">89736658234-aidt6hikn2vp0k8q4r6ubg6ag1dieb7j.apps.googleusercontent.com</string>
+    <string-array name="gender_array">
+        <item>Nam</item>
+        <item>Nữ</item>
+        <item>Khác</item>
+    </string-array>
+</resources>
